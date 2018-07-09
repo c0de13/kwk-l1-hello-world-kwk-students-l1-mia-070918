@@ -7,4 +7,6 @@ puts q
 
 q.upcase
 
+puts q
+
 
