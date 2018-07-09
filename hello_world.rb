@@ -5,6 +5,6 @@ print "Hello World!" #puts is like println and print is like print
 q = "String".upcase
 puts q 
 
-
+puts q.downcase
 
 
